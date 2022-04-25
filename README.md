@@ -3,7 +3,7 @@ Guess the number game. Made in python.
 
 This project is a guess the number game using the `random` package in [python](https://www.python.org/downloads), have fun trying to guess the number.
 
-# dependencies 
+# Dependencies 
  * [python](https://www.python.org/downloads)
  * Brain
  
