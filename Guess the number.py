@@ -1,4 +1,5 @@
 import random
+import time
 
 number = random.randint(1, 20)
 guess = int(input("Guess a number between 1 and 20: "))
@@ -11,3 +12,4 @@ while guess != number:
 
 if guess == number:
     print (f"Your guess was correct. It was {number}")
+    time.sleep(3)
