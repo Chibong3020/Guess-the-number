@@ -7,4 +7,7 @@ This project is a guess the number game using the `random` package in [python](h
  * [python](https://www.python.org/downloads)
  * Brain
  
+ # Chibong Projects
+ * Guess the number
+ 
  # Thank you for downloading
